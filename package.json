@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Lucas-Choi-17/NodeJS_web/issues"
   },
-  "homepage": "https://github.com/Lucas-Choi-17/NodeJS_web#readme"
+  "homepage": "https://github.com/Lucas-Choi-17/NodeJS_web#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.28.1",
+    "prettier": "^3.0.3"
+  }
 }
